@@ -10,6 +10,7 @@ public class CRController : SingletonMono<CRController>
     public List<GameObject> Grounds;
     public GameObject Ground = null;
     public int Score;
+    public GameObject qq;
 
 
     float lastX = 0;
