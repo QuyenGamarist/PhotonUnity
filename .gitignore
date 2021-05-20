@@ -58,3 +58,860 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/PhotonLobby/Library
+/PhotonLobby/PhotonLobby/Library/APIUpdater/*.graph
+/PhotonLobby/PhotonLobby/Library/*.prefs
+/PhotonLobby/PhotonLobby/Library/*.asset
+/PhotonLobby/PhotonLobby/Library/*.dwlt
+/PhotonLobby/PhotonLobby/Library/*.json
+/PhotonLobby/PhotonLobby/Library/*.buildreport
+/PhotonLobby/PhotonLobby/Library/*.txt
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Documentation~/images/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Documentation~/images/*.PNG
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/LayoutOverlay/*.uxml
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/LayoutOverlay/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/LayoutOverlay/*.uss
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/*.uxml
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/*.uss
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/Icons/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/Icons/Dark/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/Icons/Dark/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/Icons/Light/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/Icons/Light/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/Icons/Selected/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/Icons/Selected/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/*.shader
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Assets/SkinningModule/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/ClipperLib/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/ClipperLib/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Icons/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Icons/Dark/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Icons/Dark/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Icons/Light/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Icons/Light/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Icons/Selected/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/Icons/Selected/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/LayoutOverlay/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/LayoutOverlay/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/LayoutOverlay/Manipulators/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/LayoutOverlay/Manipulators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Cache/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Cache/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/CharacterModeTool/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/CharacterModeTool/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/IMGUI/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/IMGUI/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Lib/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Lib/x64/*.dll
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Lib/x64/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Lib/x64/*.so
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Lib/x86_64/*.bundle
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Lib/x86_64/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/MeshPreviewTool/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/MeshPreviewTool/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/MeshTool/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/MeshTool/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/OutlineGenerator/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/OutlineGenerator/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Selection/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Selection/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Selectors/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Selectors/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SkeletonTool/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SkeletonTool/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SkinningCache/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SkinningCache/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SkinningSerializer/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SkinningSerializer/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SpriteBoneInfluence/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SpriteBoneInfluence/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SpriteMeshData/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/SpriteMeshData/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Triangulation/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Triangulation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/UI/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/UI/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Undo/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/Undo/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/VisibilityTool/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/VisibilityTool/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/WeightsGenerator/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SkinningModule/WeightsGenerator/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SpriteLib/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SpriteLib/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SpriteOutlineRenderer/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SpriteOutlineRenderer/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SpriteSkin/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/SpriteSkin/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/SpriteLib/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/SpriteLib/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Geometry/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Geometry/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/IO/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/IO/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Logging/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Logging/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Meshing/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Meshing/Algorithm/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Meshing/Algorithm/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Meshing/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Meshing/Data/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Meshing/Data/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Meshing/Iterators/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Meshing/Iterators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Properties/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Properties/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Smoothing/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Smoothing/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Tools/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Tools/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Topology/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Topology/DCEL/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Topology/DCEL/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Topology/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Voronoi/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Voronoi/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Voronoi/Legacy/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/Triangle/Voronoi/Legacy/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/Animation/Animators/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/Animation/Animators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/Animation/Clips/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/Animation/Clips/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/1 Simple/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/2 Single Skinned Sprite/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/2 Single Skinned Sprite/Animation/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/2 Single Skinned Sprite/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/2 Single Skinned Sprite/Animation/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/2 Single Skinned Sprite/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/2 Single Skinned Sprite/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/2 Single Skinned Sprite/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Animators/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Animators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Clips/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Animation/Clips/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/3 Multiple Skinned Sprites/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/Animation/Animators/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/Animation/Animators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/Animation/Clips/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/Animation/Clips/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/Sprites/*.psb
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/4 Character/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Animation/Animators/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Animation/Animators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Animation/Clips/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Scripts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Scripts/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/*.asset
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Sprite Library/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/5 SpriteSwap/Sprites/*.psb
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Animators/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Animators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Clips/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/Animation/Clips/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/Sprites/*.psb
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/Attachment Points/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/IK/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/IK/Animation/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/IK/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/IK/Animation/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/IK/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/IK/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Extras/IK/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Scripts/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Scripts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Samples~/AnimationSamples/Scripts/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Tests/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Tests/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/Tests/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.animation@4.2.5/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/ImagePacker/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/ImagePacker/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/ImagePacker/Jobs/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/ImagePacker/Jobs/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/InternalBridge/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/InternalBridge/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/InternalBridge/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/TextureGenerator/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/TextureGenerator/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Runtime/InternalBridge/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Runtime/InternalBridge/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Runtime/InternalBridge/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Tests/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Tests/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/Tests/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.common@3.0.1/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/EditablePath/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/EditablePath/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/EditorTool/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/EditorTool/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/Handles/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/Handles/Path/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/Handles/Path/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/Handles/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/IMGUI/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/IMGUI/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/IMGUI/GUIFramework/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/IMGUI/GUIFramework/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/Selection/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/Selection/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/Shapes/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/Shapes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Tests/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/Tests/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.path@3.0.2/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Documentation~/images/*.gitkeep
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Documentation~/images/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Editor/Icons/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Editor/Icons/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Extras/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Extras/Custom Canvas Scaler/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Extras/Custom Canvas Scaler/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Extras/Custom Canvas Scaler/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Animation/Animators/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Animation/Animators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Animation/Clips/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Animation/Clips/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Fonts/*.txt
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Fonts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Fonts/*.ttf
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Physics2D Materials/*.physicsMaterial2D
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Physics2D Materials/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/Pixel Perfect Cameras/*.preset
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/Pixel Perfect Cameras/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/Texture Importers/*.preset
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/Texture Importers/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Animations/*.controller
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Animations/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Animations/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Materials/*.mat
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Materials/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Prefabs/*.prefab
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Prefabs/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Scripts/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Scripts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Textures/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/RoboHero/Textures/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Animated Ocean Tile/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Atlas/*.spriteatlas
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Atlas/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Sprites/*.ase
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Tile Asset/*.asset
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Animated Ocean Tile/Tile Asset/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Dungeon Tile/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Dungeon Tile/Atlas/*.spriteatlas
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Dungeon Tile/Atlas/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Dungeon Tile/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Dungeon Tile/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Dungeon Tile/Tile Asset/*.asset
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Dungeon Tile/Tile Asset/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Scripts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Scripts/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Scripts/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Scripts/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Rule Tiles/Scripts/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Scripts/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Scripts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Tilemap Palettes/*.prefab
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Tilemap Palettes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/_Scenes/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/_Scenes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Tests/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Tests/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Tests/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Tests/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Tests/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Tests/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Documentation~/images/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PDNWrapper/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PDNWrapper/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PhotoShopFileType/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PhotoShopFileType/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/Compression/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/Compression/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/ImageResources/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/ImageResources/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/Layers/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/Layers/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/Layers/LayerInfo/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/PsdFile/Layers/LayerInfo/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/PSDPlugin/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/Tasks/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/Tasks/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Tests/EditorTests/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Tests/EditorTests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/Tests/EditorTests/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.psdimporter@3.1.5/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Documentation~/images/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/Handles/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/Handles/Shaders/*.shader
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/Handles/Shaders/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/Handles/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/Icons/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/Icons/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Runtime/External/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Runtime/External/LibTessDotNet/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Runtime/External/LibTessDotNet/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Runtime/External/LibTessDotNet/*.txt
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Prefabs/*.prefab
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Prefabs/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Scenes/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Scenes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Scripts/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Scripts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Sprite Shape Profiles/*.asset
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Sprite Shape Profiles/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Sprites/*.psd
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Textures/*.psd
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Extras/Textures/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/*.unity
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/Sprite Shape Profiles/*.asset
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/Sprite Shape Profiles/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/Sprites/*.psd
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/Sprites/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/Sprites/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/Textures/*.psd
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Samples~/Samples/Textures/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Tests/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Tests/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/Tests/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.2d.spriteshape@4.1.3/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/.Resources/*.collabattributes
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/.Resources/*.collabignore
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/*.gitattributes
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~/images/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Layouts/*.uxml
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Layouts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Styles/*.uss
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Styles/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Common/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Common/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Common/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Components/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Components/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Components/ChangeListElements/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Components/ChangeListElements/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Components/Menus/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Components/Menus/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Components/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Api/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Api/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Enums/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Enums/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Providers/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Providers/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Structures/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Models/Structures/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Presenters/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Presenters/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Presenters/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Properties/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Properties/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Settings/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Settings/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Settings/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/UserInterface/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/UserInterface/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/UserInterface/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Utilities/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Utilities/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Utilities/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Views/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Views/Adapters/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Views/Adapters/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Views/Adapters/ListAdapters/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Views/Adapters/ListAdapters/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Views/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Views/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/Models/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/Models/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/Models/Providers/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/Models/Providers/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/Presenters/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/Presenters/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/Scenario/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/Scenario/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/Tests/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.collab-proxy@1.3.9/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/*.yml
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/*.txt
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/*.dll
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/*.xml
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ext.nunit@1.0.0/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/*.editorconfig
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/PostProcessors/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/PostProcessors/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.rider@1.2.1/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/COMIntegration/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/COMIntegration/Release/*.exe
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/COMIntegration/Release/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/Messaging/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/Messaging/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/Plugins/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/Plugins/AppleEventIntegration.bundle/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/Plugins/AppleEventIntegration.bundle/Contents/*.plist
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/Plugins/AppleEventIntegration.bundle/Contents/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/Plugins/AppleEventIntegration.bundle/Contents/MacOS/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/ProjectGeneration/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/ProjectGeneration/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/VSWhere/*.exe
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/VSWhere/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/Editor/ProjectGeneration/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/Editor/ProjectGeneration/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.ide.vscode@1.2.1/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Documentation~/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/Tests/Shared/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/Tests/Shared/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/Tests/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics.Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics.Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics.Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/Noise/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/Noise/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.mathematics@1.1.0/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/Documentation~/images/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/Api/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/Api/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/CommandLineParser/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/CommandLineParser/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/CommandLineTest/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/CommandLineTest/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/GUI/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/GUI/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/GUI/TestListBuilder/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/GUI/TestListBuilder/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/GUI/TestListTreeView/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/GUI/TestListTreeView/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/GUI/Views/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/GUI/Views/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/NUnitExtension/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/NUnitExtension/Attributes/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/NUnitExtension/Attributes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/NUnitExtension/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestLaunchers/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestLaunchers/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRun/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRun/Tasks/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRun/Tasks/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRun/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRunner/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRunner/Callbacks/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRunner/Callbacks/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRunner/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRunner/Messages/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRunner/Messages/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRunner/Utils/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestRunner/Utils/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestSettings/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/TestSettings/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/UnityTestProtocol/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/UnityTestProtocol/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Assertions/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Assertions/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Assertions/LogScope/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Assertions/LogScope/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/Attributes/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/Attributes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/Commands/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/Commands/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/Filters/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/Filters/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/Runner/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/NUnitExtensions/Runner/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/TestRunner/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/TestRunner/Callbacks/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/TestRunner/Callbacks/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/TestRunner/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/TestRunner/Messages/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/TestRunner/Messages/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/TestRunner/RemoteHelpers/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/TestRunner/RemoteHelpers/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Utils/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Utils/AssemblyProvider/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Utils/AssemblyProvider/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Utils/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Utils/MonoBehaviourTest/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Utils/MonoBehaviourTest/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.test-framework@1.1.16/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Documentation~/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Editor Resources/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Editor Resources/Gizmos/*.psd
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Editor Resources/Gizmos/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Editor Resources/Shaders/*.cginc
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Editor Resources/Shaders/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Editor Resources/Shaders/*.shader
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Editor Resources/Textures/*.psd
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Editor Resources/Textures/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Package Resources/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/*.json
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Tests/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Tests/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Tests/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Tests/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Tests/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Tests/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.textmeshpro@3.0.1/Tests/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Documentation~/*.md
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Documentation~/images/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Actions/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Actions/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Actions/Menus/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Actions/Menus/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Activation/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Activation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Analytics/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Analytics/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Animation/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Attributes/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Attributes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Audio/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Audio/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/ControlTrack/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/ControlTrack/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/CustomEditors/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/CustomEditors/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Extensions/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Extensions/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Items/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Items/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/AddDelete/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/AddDelete/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Cursors/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Cursors/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Move/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Move/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Sequence/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Sequence/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Trim/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Trim/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Utils/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Manipulators/Utils/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Playables/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Playables/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Properties/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Properties/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Recording/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Recording/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Signals/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Signals/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Signals/TreeView/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Signals/TreeView/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/State/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/State/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Extensions/*.uss
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Extensions/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/DarkSkin/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/DarkSkin/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/Icons/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/Icons/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/LightSkin/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/LightSkin/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/Shared/*.png
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/Images/Shared/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/res/*.anim
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/res/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/StyleSheets/res/*.txt
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Utilities/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Utilities/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Window/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Window/Modes/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Window/Modes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Window/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Window/ViewModel/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/Window/ViewModel/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/inspectors/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/inspectors/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/inspectors/ClipInspector/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/inspectors/ClipInspector/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/inspectors/CurvesOwner/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/inspectors/CurvesOwner/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/Drawers/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/Drawers/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/Drawers/Layers/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/Drawers/Layers/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/ItemGui/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/ItemGui/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/Snapping/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/Snapping/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/TrackGui/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Editor/treeview/TrackGui/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Activation/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Activation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Animation/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Animation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/AssetUpgrade/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/AssetUpgrade/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Attributes/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Attributes/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Audio/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Audio/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Control/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Control/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Evaluation/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Evaluation/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Events/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Events/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Events/Signals/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Events/Signals/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Extensions/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Extensions/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Playables/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Playables/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Properties/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Properties/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Scripting/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Scripting/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/*.asmdef
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Utilities/*.cs
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/Runtime/Utilities/*.meta
+/PhotonLobby/PhotonLobby/Library/PackageCache/com.unity.timeline@1.3.5/*.json
+/PhotonLobby/PhotonLobby/Library/PackageManager/*.bin
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Android/Data/Managed/*.dll
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Android/Data/*.config
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Android/Data/*.unity3d
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Android/*.yaml
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Win/Data/Managed/*.dll
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Win/Data/*.config
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Win/Data/*.assets
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Win/Data/*.resS
+/PhotonLobby/PhotonLobby/Library/PlayerDataCache/Win/*.yaml
+/PhotonLobby/PhotonLobby/Library/ScriptAssemblies/*.dll
+/PhotonLobby/PhotonLobby/Library/ScriptAssemblies/*.stamp
+/PhotonLobby/PhotonLobby/Library/*.db
+/PhotonLobby/PhotonLobby/Library/ShaderCache/0/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/1/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/2/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/3/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/4/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/5/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/6/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/7/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/8/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/9/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/a/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/b/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/c/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/d/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/e/*.bin
+/PhotonLobby/PhotonLobby/Library/ShaderCache/f/*.bin
+/PhotonLobby/PhotonLobby/Library/StateCache/LayerSettings/9e/*.json
+/PhotonLobby/PhotonLobby/Library/StateCache/MainStageHierarchy/4d/*.json
+/PhotonLobby/PhotonLobby/Library/StateCache/PrefabStageHierarchy/3d/*.json
+/PhotonLobby/PhotonLobby/Library/StateCache/PrefabStageHierarchy/66/*.json
+/PhotonLobby/PhotonLobby/Library/StateCache/SceneView/1e/*.json
+/PhotonLobby/PhotonLobby/Library/StateCache/SceneView/8c/*.json
+/PhotonLobby/PhotonLobby/Library/StateCache/SceneView/d6/*.json
+/PhotonLobby/PhotonLobby/Library/*.catalog
+/PhotonLobby/PhotonLobby/Library/UIElements/EditorWindows/*.pref
+/PhotonLobby/PhotonLobby/Library/*.log
