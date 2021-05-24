@@ -139,6 +139,7 @@ namespace Photon.Pun.UtilityScripts
         private float TimeRemaining()
         {
             int timer = PhotonNetwork.ServerTimestamp - this.startTime;
+            Debug.Log(timer.ToString() + "*********");
             return this.Countdown - timer / 1000f;
         }
 

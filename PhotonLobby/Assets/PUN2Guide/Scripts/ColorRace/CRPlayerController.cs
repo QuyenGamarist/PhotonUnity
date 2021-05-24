@@ -10,6 +10,7 @@ public class CRPlayerController : MonoBehaviourPun, IPunObservable
 	public MonoBehaviour[] localScripts;
 	public GameObject[] localObjects;
 
+
 	void Start()
     {
 		RandomPlayerColor();
@@ -17,18 +18,18 @@ public class CRPlayerController : MonoBehaviourPun, IPunObservable
 
 		if (photonView.IsMine)
 		{
-			
+		  
 		}
 		else
-		{
-			for (int i = 0; i < localScripts.Length; i++)
-			{
-				localScripts[i].enabled = false;
-			}
-			for (int i = 0; i < localObjects.Length; i++)
-			{
-				localObjects[i].SetActive(false);
-			}
+        {
+            for (int i = 0; i < localScripts.Length; i++)
+            {
+                localScripts[i].enabled = false;
+            }
+            //for (int i = 0; i < localObjects.Length; i++)
+            //{
+            //	localObjects[i].SetActive(false);
+            //}
 		}
 	}
 
@@ -36,17 +37,21 @@ public class CRPlayerController : MonoBehaviourPun, IPunObservable
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire1")){
-            GetComponent<Rigidbody>().velocity = new Vector2(0, -1);
-            GetComponent<Rigidbody>().AddForce(new Vector2(0, 1.5f) * 250.0f);
-            transform.rotation = Quaternion.Euler(new Vector3(0, 0, 45.0f));       
-        }
-
-		if (!photonView.IsMine)
-		{
+        if (photonView.IsMine)
+        {
+			if (Input.GetButtonDown("Fire1"))
+			{
+				GetComponent<Rigidbody>().velocity = new Vector2(0, -1);
+				GetComponent<Rigidbody>().AddForce(new Vector2(0, 1.5f) * 250.0f);
+				transform.rotation = Quaternion.Euler(new Vector3(0, 0, 45.0f));
+			}
+		}
+       
+		else
+        {
 			//Update remote player (smooth this, this looks good, at the cost of some accuracy)
-			transform.position = Vector3.Lerp(transform.position, latestPos, Time.deltaTime * 5);
-			transform.rotation = Quaternion.Lerp(transform.rotation, latestRot, Time.deltaTime * 5);
+			//transform.position = Vector3.Lerp(transform.position, latestPos, Time.deltaTime * 5);
+			//transform.rotation = Quaternion.Lerp(transform.rotation, latestRot, Time.deltaTime * 5);
 		}
 
 	}

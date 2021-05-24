@@ -242,6 +242,8 @@ MonoBehaviour:
   - {fileID: 154362, guid: aef847955a187784a9b3a5efdba0ff27, type: 3}
   Ground: {fileID: 154362, guid: aef847955a187784a9b3a5efdba0ff27, type: 3}
   Score: 0
+  qq: {fileID: 154362, guid: aef847955a187784a9b3a5efdba0ff27, type: 3}
+  playerPrefab: {fileID: 1815628986581020066, guid: 8f881de7fb1b8df44865d813750f1526, type: 3}
 --- !u!4 &1250634563
 Transform:
   m_ObjectHideFlags: 0
@@ -266,7 +268,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1679625981}
-  - component: {fileID: 1679625982}
   m_Layer: 0
   m_Name: RoomController
   m_TagString: Untagged
@@ -288,17 +289,3 @@ Transform:
   m_Father: {fileID: 1250634563}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1679625982
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1679625980}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 863b5afe2b2e8b341a01a56299c46ea4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerPrefab: {fileID: 1815628986581020066, guid: 8f881de7fb1b8df44865d813750f1526, type: 3}
-  spawnPoint: {fileID: 431149243}

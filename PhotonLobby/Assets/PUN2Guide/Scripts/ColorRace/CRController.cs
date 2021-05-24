@@ -11,7 +11,7 @@ public class CRController : SingletonMono<CRController>
     public GameObject Ground = null;
     public int Score;
     public GameObject qq;
-
+    public GameObject playerPrefab;
 
     float lastX = 0;
     public enum GameState
@@ -26,10 +26,9 @@ public class CRController : SingletonMono<CRController>
     void Start()
     {
         gamestate = GameState.Playing;
+        PhotonNetwork.Instantiate(playerPrefab.name, Vector3.zero, Quaternion.identity, 0);
 
-            StartSpawn();
-        
-        
+        StartSpawn();    
         AddColor(ColorPlayer);
     }
 
@@ -58,7 +57,7 @@ public class CRController : SingletonMono<CRController>
 
         if (Ground != null)
         {
-            GameObject pip = (GameObject)PhotonNetwork.Instantiate("Ground", new Vector3(lastX + 5, 0.4f, 0), Quaternion.identity);
+            GameObject pip = (GameObject)Instantiate(qq, new Vector3(lastX + 5, 0.4f, 0), Quaternion.identity);
             lastX = pip.transform.position.x;
         }
     }
@@ -79,6 +78,6 @@ public class CRController : SingletonMono<CRController>
     public void GameOver()
     {
         gamestate = GameState.GameOver;
-        Time.timeScale = 0;
+        //Time.timeScale = 0;
     }
 }
