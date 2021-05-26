@@ -30,8 +30,8 @@ public class CRPlayerController : MonoBehaviourPun, IPunObservable
             //{
             //	localObjects[i].SetActive(false);
             //}
-		}
-	}
+        }
+    }
 
 
     // Update is called once per frame
@@ -49,16 +49,16 @@ public class CRPlayerController : MonoBehaviourPun, IPunObservable
        
 		else
         {
-			//Update remote player (smooth this, this looks good, at the cost of some accuracy)
-			//transform.position = Vector3.Lerp(transform.position, latestPos, Time.deltaTime * 5);
-			//transform.rotation = Quaternion.Lerp(transform.rotation, latestRot, Time.deltaTime * 5);
-		}
+            //Update remote player (smooth this, this looks good, at the cost of some accuracy)
+            transform.position = Vector3.Lerp(transform.position, latestPos, Time.deltaTime * 5);
+            transform.rotation = Quaternion.Lerp(transform.rotation, latestRot, Time.deltaTime * 5);
+        }
 
 	}
 	public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
 	{
 		if (stream.IsWriting)
-		{
+		{   
 			//We own this player: send the others our data
 			stream.SendNext(transform.position);
 			stream.SendNext(transform.rotation);
@@ -81,7 +81,7 @@ public class CRPlayerController : MonoBehaviourPun, IPunObservable
 
 			transform.GetComponent<Collider>().isTrigger = false;
 			CRController.Instance.GameOver();
-		    
+				
 		}
 		if (color == color2)
 		{

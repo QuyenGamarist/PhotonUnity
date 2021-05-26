@@ -332,6 +332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75ad185e40e6ef74dbb84bf815fba8cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  RandomColor: 00000000000000000000000000000000
 --- !u!1 &169056
 GameObject:
   m_ObjectHideFlags: 0

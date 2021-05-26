@@ -12,6 +12,7 @@ public class CRController : SingletonMono<CRController>
     public int Score;
     public GameObject qq;
     public GameObject playerPrefab;
+    public GameObject PunManager;
 
     float lastX = 0;
     public enum GameState
@@ -47,6 +48,8 @@ public class CRController : SingletonMono<CRController>
 
     private void Spawn()
     {
+       
+
         AddColor(ColorGround);
 
         if (gamestate == GameState.GameOver)
@@ -59,6 +62,8 @@ public class CRController : SingletonMono<CRController>
         {
             GameObject pip = (GameObject)Instantiate(qq, new Vector3(lastX + 5, 0.4f, 0), Quaternion.identity);
             lastX = pip.transform.position.x;
+            PunManager.GetComponent<PunManager>().SetIntRandom.Clear();
+            PunManager.GetComponent<PunManager>().RandomGround.Clear();
         }
     }
     public void AddColor(List<Color> mylist)
